@@ -11,7 +11,7 @@ Este proyecto es un simulador de una tienda online desarrollado en Python utiliz
 
 El proyecto está estructurado en módulos para separar la lógica del negocio (`models`), la interfaz gráfica (`ui`) y las pruebas unitarias (`tests`).
 
-#librerias
+# librerias
 Solo se uso Tkinter asi que de no tenerse instalado se instala con pip install tkinter
 
 # Correr app
